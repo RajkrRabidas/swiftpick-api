@@ -1,0 +1,14 @@
+{
+  "name": "apis-for-kimo",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+     "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0"
+  }
+}
